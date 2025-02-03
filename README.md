@@ -104,22 +104,6 @@ DataTrust360/
 ✔️ **Phase 3**: Enhance monitoring & reporting with Power BI  
 ✔️ **Phase 4**: Optimize pipeline performance & scale for large datasets  
 
-## 🤝 Contribution Guidelines
-Want to contribute? Follow these steps:
-1. Fork the repo & clone it locally.
-2. Create a new branch for your feature.
-3. Commit changes & push to the branch.
-4. Open a pull request for review.
 
-## 📜 License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## 📧 Contact
-- **Author**: Vaibhav Gaur  
-- **Email**: vaibhavgaur2663@gmail.com  
-- **LinkedIn**: [Vaibhav Gaur](https://www.linkedin.com/in/vaibhavgaur26)
-
----
-
-🚀 **Ready to use your skills to drive data governance & quality to the next level? Let's get started!**
 
