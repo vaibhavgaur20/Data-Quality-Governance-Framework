@@ -4,7 +4,7 @@
 DataTrust360 is an **end-to-end data quality and governance** solution designed to ensure accurate, reliable, and secure data processing. The project integrates **Azure, Informatica, Snowflake, and Power BI** to enable data extraction, transformation, validation, and reporting with best practices in data governance and compliance.
 
 ## 🏗️ Architecture Diagram
-*(Attach an architecture diagram here if available)*
+![architecture](https://github.com/vaibhavgaur20/Data-Quality-Governance-Framework/blob/main/Architecture.png)
 
 ## 🎯 Key Features
 ✅ **Data Quality Checks**: Ensure **null checks, duplicate handling, schema validation, and data accuracy** using **PySpark & SQL**  
