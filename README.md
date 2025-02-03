@@ -1,7 +1,5 @@
 # Data-Quality-Governance-Framework
 
-# DataTrust360: End-to-End Data Quality & Governance
-
 ## 📌 Project Overview
 DataTrust360 is an **end-to-end data quality and governance** solution designed to ensure accurate, reliable, and secure data processing. The project integrates **Azure, Informatica, Snowflake, and Power BI** to enable data extraction, transformation, validation, and reporting with best practices in data governance and compliance.
 
